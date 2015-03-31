@@ -1,0 +1,23 @@
+.one-third {
+	position: relative;
+ 	min-height: 1px;
+  	padding-left: 15px;
+  	padding-right: 15px;
+  	width: 33.33333333%;
+  	float: left;
+}
+
+.two-third {
+	position: relative;
+ 	min-height: 1px;
+  	padding-left: 15px;
+  	padding-right: 15px;
+  	width: 66.66666667%;
+  	float: right;
+}
+
+.profile-pic {
+	width: 105px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}

@@ -1,0 +1,52 @@
+@font-face {
+	font-family: 'SinkinSans-400Regular';
+	src: url('SinkinSans-400Regular.otf');
+}
+
+.images {
+	opacity: 1.0;
+}
+
+.profile-pic {
+	width: 105px;
+}
+
+.background {
+	background-color: PowderBlue;
+}
+
+.background-container {
+	background-color: rgba(0, 139, 139, .7);
+}
+
+.margin-down {
+	margin-top: 15px;
+}
+
+.border-container {
+    border-radius: 20px;
+
+}
+
+.border-picture {
+    border-radius: 20px;
+    box-shadow: 10px 7px 20px #555555;
+}
+
+.top-space {
+	margin-top: 20px;
+}
+
+.background {
+	background: url("../images/beach-background.jpg"); 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+p {
+	font-size: 1.1em;
+	line-height: 170%;
+}
+
